@@ -1,4 +1,14 @@
-## Hi there 👋
+# Привет, меня зовут Вадим! 👋
+Фронтенд-разработчик. Фокусируюсь на создании адаптивных, семантичных интерфейсов и аккуратной работе с CSS.
+
+### 🛠 Технологии и инструменты
+- **Frontend:** HTML5, CSS3 (Sass/SCSS), JavaScript (ES6+), основы React.
+- **Инструменты:** Git, GitHub, Vite, BEM, Figma, Toggl Track.
+
+### 📁 Мои проекты
+- **[Название проекта]** — Адаптивный веб-сайт с обработкой форм. [Ссылка на репозиторий]
+- **[Название проекта]** — Практические упражнения по JavaScript и клиент-серверному взаимодействию. [Ссылка на репозиторий]
+
 
 <!--
 **VadimPinyagin/VadimPinyagin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
